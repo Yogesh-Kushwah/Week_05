@@ -1,0 +1,38 @@
+[
+    {
+        "Id": "Id234",
+        "Marks": "482",
+        "Name": "Ramendra",
+        "Age": "27"
+    },
+    {
+        "Id": "Id238",
+        "Marks": "382",
+        "Name": "Ramu",
+        "Age": "26"
+    },
+    {
+        "Id": "Id234",
+        "Marks": "482",
+        "Name": "Ramendra",
+        "Age": "23"
+    },
+    {
+        "Id": "Id225",
+        "Marks": "420",
+        "Name": "Rohit",
+        "Age": "22"
+    },
+    {
+        "Id": "Id305",
+        "Marks": "250",
+        "Name": "Raju",
+        "Age": "22"
+    },
+    {
+        "Id": "Id305",
+        "Marks": "250",
+        "Name": "Raju",
+        "Age": "28"
+    }
+]

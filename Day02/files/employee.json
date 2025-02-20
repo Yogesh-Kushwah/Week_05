@@ -1,0 +1,20 @@
+[
+    {
+        "Id": "EID234",
+        "Salary": "48200",
+        "Name": "Ramendra",
+        "Age": "27"
+    },
+    {
+        "Email": "xyz@gmail.com",
+        "Phone": "9963382541",
+        "City": "Ranchi",
+        "PIN": "228026"
+    },
+    {
+        "Job": "Private",
+        "Organization": "Oracle",
+        "Experience": "5 Year",
+        "Departement": "IT"
+    }
+]
